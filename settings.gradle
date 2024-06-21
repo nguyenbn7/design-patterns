@@ -10,5 +10,6 @@ include(
     "iterator", 
     "singleton", 
     "state",
-    "templatemethod"
+    "templatemethod",
+    "strategy"
 )
