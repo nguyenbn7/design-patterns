@@ -1,6 +1,14 @@
 rootProject.name = 'designpatterns'
 
 include(
-    "observer", "adapter", "command", "composite", "decorator", 
-    "factory", "iterator", "singleton", "state"
+    "observer", 
+    "adapter", 
+    "command", 
+    "composite", 
+    "decorator", 
+    "factory", 
+    "iterator", 
+    "singleton", 
+    "state",
+    "templatemethod"
 )
