@@ -11,5 +11,6 @@ include(
     "singleton", 
     "state",
     "templatemethod",
-    "strategy"
+    "strategy",
+    "proxy"
 )
