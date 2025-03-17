@@ -10,6 +10,7 @@ public class Whip extends CondimentDecorator {
         super(beverage);
     }
 
+    @Override
     public double cost() {
         return .10 + beverage.cost();
     }
